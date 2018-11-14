@@ -12,6 +12,8 @@ Made with love
 
 ## Heroku link
 
+https://zouk-spirit-kebab.herokuapp.com/
+
 ## Install
 
 ```
