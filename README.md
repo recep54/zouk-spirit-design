@@ -1,24 +1,26 @@
-# README
+# Zouk spirit design
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CSS training on zouk music theme without Bootstrap
+Made with love
 
-Things you may want to cover:
+## Authors
 
-* Ruby version
+- KARABULUT Recep
+- UNAL Enes
+- YAKATALY Shayane
+- RATTANASAMAY Victor
 
-* System dependencies
+## Heroku link
 
-* Configuration
+## Install
 
-* Database creation
+```
+bundle install
+```
 
-* Database initialization
+```rb
+rails db:create
+rails db:migrate
+rails s
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
